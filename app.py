@@ -240,7 +240,7 @@ elif option == "Audio to Text":
     st.markdown("<h1 class='big-font'>Real-time Audio to Text Conversion</h1>", unsafe_allow_html=True)
     st.markdown("<p class='subtitle'>Use your microphone to convert speech to text</p>", unsafe_allow_html=True)
 
-    path = ('H:\QUEENS UNIVERSITY\QHACKS\Recorded_audio.wav')
+    path = ('H:\QUEENS UNIVERSITY\QHACKS\SignFlow\Recorded_audio.wav')
 
             
         # Set up Streamlit interface
